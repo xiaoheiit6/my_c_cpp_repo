@@ -1,0 +1,7 @@
+temp
+*.o
+*.o.*/
+*tempCodeRunnerFile*
+*.exe*
+*.ilk
+*.pdb
